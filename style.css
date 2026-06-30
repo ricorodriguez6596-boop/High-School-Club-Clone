@@ -318,6 +318,7 @@ nav {
     line-height: 120%;
     color: var(--Color-black);
     text-align: center;
+    font-weight: 500;
 }
 
 .info-content-card-para {
