@@ -12,4 +12,3 @@ let change=()=>{
 
 
 icon.addEventListener('click', change)
-icon.addEventListener('click',add)
