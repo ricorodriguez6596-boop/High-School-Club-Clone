@@ -716,12 +716,12 @@ footer {
     max-width: 350px;
 }
 
-.footer-contact p {
+.footer-contact h2 {
     font-family: var(--Primary-font-family);
     font-size: var(--Font-size-30);
     color: var(--Color-light-cream);
     letter-spacing: var(--Letter-spacing);
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .footer-copyright {
