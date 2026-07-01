@@ -4,7 +4,7 @@ Responsive landing page built using HTML and CSS.
 
 ## Live Demo
 
-https://ricorodriguez6596-boop.github.io/High-School-Club-Clone/
+https://high-school-club-clone.vercel.app/
 
 ## GitHub Repository
 
