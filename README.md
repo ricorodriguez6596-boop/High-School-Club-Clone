@@ -2,6 +2,8 @@
 
 Responsive landing page built using HTML and CSS.
 
+
+
 ## Live Demo
 
 https://high-school-club-clone.vercel.app/
